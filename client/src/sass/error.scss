@@ -1,0 +1,21 @@
+.error_page{
+    display: flex;
+    flex-flow: column nowrap;
+    min-height: calc(100vh - 50px);
+    justify-content: center;
+    align-items: center;
+}
+
+.error_no{
+    font-size: 15rem;
+    color:  lighten($color: lightgray, $amount: 13%);
+    z-index: -1;
+}
+
+.error_text{
+    word-spacing: 2rem;
+    letter-spacing: 0.5rem;
+    z-index: 0;
+    position: relative;
+    top: -10rem;
+}

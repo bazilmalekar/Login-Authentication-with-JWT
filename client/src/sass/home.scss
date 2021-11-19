@@ -1,0 +1,17 @@
+.home_div{
+}
+.description{
+    display: flex;
+    min-height: calc(100vh - 50px);
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(45deg, #63B4B8 50%, #ffffff 50%);
+}
+
+.details{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
