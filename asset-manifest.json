@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Login-Authentication-with-JWT/static/css/main.96e67003.chunk.css",
+    "main.js": "/Login-Authentication-with-JWT/static/js/main.196dee79.chunk.js",
+    "main.js.map": "/Login-Authentication-with-JWT/static/js/main.196dee79.chunk.js.map",
+    "runtime-main.js": "/Login-Authentication-with-JWT/static/js/runtime-main.f77e03b8.js",
+    "runtime-main.js.map": "/Login-Authentication-with-JWT/static/js/runtime-main.f77e03b8.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/Login-Authentication-with-JWT/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.3df8e0d9.chunk.js": "/Login-Authentication-with-JWT/static/js/2.3df8e0d9.chunk.js",
+    "static/js/2.3df8e0d9.chunk.js.map": "/Login-Authentication-with-JWT/static/js/2.3df8e0d9.chunk.js.map",
+    "static/js/3.c0aab6db.chunk.js": "/Login-Authentication-with-JWT/static/js/3.c0aab6db.chunk.js",
+    "static/js/3.c0aab6db.chunk.js.map": "/Login-Authentication-with-JWT/static/js/3.c0aab6db.chunk.js.map",
+    "index.html": "/Login-Authentication-with-JWT/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/Login-Authentication-with-JWT/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.96e67003.chunk.css.map": "/Login-Authentication-with-JWT/static/css/main.96e67003.chunk.css.map",
+    "static/js/2.3df8e0d9.chunk.js.LICENSE.txt": "/Login-Authentication-with-JWT/static/js/2.3df8e0d9.chunk.js.LICENSE.txt",
+    "static/media/Profile.3f41bcdb.jpg": "/Login-Authentication-with-JWT/static/media/Profile.3f41bcdb.jpg",
+    "static/media/Signup.a0f31329.png": "/Login-Authentication-with-JWT/static/media/Signup.a0f31329.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f77e03b8.js",
+    "static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.3df8e0d9.chunk.js",
+    "static/css/main.96e67003.chunk.css",
+    "static/js/main.196dee79.chunk.js"
+  ]
+}
