@@ -45,7 +45,7 @@ const Login = () => {
                 window.alert("Invalid Credentials");
                 console.log("Invalid Credentials");
             }else{
-                history.push("/Authentication-MERN-Stack-Project");
+                history.push("/Login-Authentication-with-JWT");
             }
             dispatch(showLogout());
         }catch(err){

@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "homepage": "https://bazilmalekar.github.io/Authentication-MERN-Stack-Project",
+  "homepage": "https://bazilmalekar.github.io/Login-Authentication-with-JWT",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:5000",
@@ -23,7 +23,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build"
   },

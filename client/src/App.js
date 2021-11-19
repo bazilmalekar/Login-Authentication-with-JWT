@@ -14,7 +14,7 @@ const App = () => {
     <>
       <Navbar />
       <Switch>
-        <Route exact path="/Authentication-MERN-Stack-Project" component={Home} />
+        <Route exact path="/Login-Authentication-with-JWT" component={Home} />
         <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} />
         <Route path="/login" component={Login} />
